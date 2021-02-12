@@ -1,4 +1,4 @@
-import '/artur.css'
+import 'artur.css'
 
 function Home() {
     return <div class="Amainbar"></div>
