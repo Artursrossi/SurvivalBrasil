@@ -8,7 +8,7 @@ class MyDocument extends Document {
 
   render() {
     return (
-      <Html>
+      <Html lang="en">
         <Head>
           <script type="text/javascript">
             (function(c,l,a,r,i,t,y){
