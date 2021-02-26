@@ -14,6 +14,7 @@ function Home() {
                 <a href="/" class="AmainbarButton">KITS</a>
                 <a href="/" class="AmainbarButton">KITS</a>
             </div>
+            <img src="/background.webp" width="100%"></img>
         </div>
     )
 }
