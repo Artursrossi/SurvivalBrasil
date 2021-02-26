@@ -1,18 +1,18 @@
-import Head from 'next/Head'
+import Head from 'next/head'
 
 function Home() {
     return(
-        <div class="Aheader">
+        <div>
             <Head>
-                <title>Teste</title>
+                <title>SurvivalBrasil</title>
+                <meta name="viewport" content="initial-scale=1.0, width=device-width" />
             </Head>
-            <style>
-                
-            </style>
+
             <div class="Amainbar">
-                <h3>
-                Teste
-                </h3>
+                <a href="/" class="AmainbarButton">KITS</a>
+                <a href="/" class="AmainbarButton">KITS</a>
+                <a href="/" class="AmainbarButton">KITS</a>
+                <a href="/" class="AmainbarButton">KITS</a>
             </div>
         </div>
     )
